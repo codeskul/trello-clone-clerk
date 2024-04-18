@@ -45,7 +45,7 @@ export default function MarketingPage() {
         accomplish it all with Taskify.
       </div>
       <Button className="mt-6" size="lg" asChild>
-        <Link href="/auth/register">Get Taskify for free</Link>
+        <Link href="/sign-up">Get Taskify for free</Link>
       </Button>
     </div>
   );
