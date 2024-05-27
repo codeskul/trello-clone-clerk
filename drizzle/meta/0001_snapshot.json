@@ -1,0 +1,38 @@
+{
+  "id": "0b5b5a34-1468-4ad1-8d31-5ca46197a79e",
+  "prevId": "25a26aa1-5bc2-4805-9e69-a70d25bacd28",
+  "version": "5",
+  "dialect": "pg",
+  "tables": {
+    "boards": {
+      "name": "boards",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "uuid",
+          "primaryKey": true,
+          "notNull": true,
+          "default": "'a79cc866-e1be-453c-8600-8445387dc1e4'"
+        },
+        "title": {
+          "name": "title",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {},
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {}
+    }
+  },
+  "enums": {},
+  "schemas": {},
+  "_meta": {
+    "columns": {},
+    "schemas": {},
+    "tables": {}
+  }
+}

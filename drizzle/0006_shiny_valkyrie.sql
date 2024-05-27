@@ -1,0 +1,1 @@
+ALTER TABLE "boards" ALTER COLUMN "title" SET NOT NULL;

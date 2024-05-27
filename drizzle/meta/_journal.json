@@ -1,0 +1,55 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715092426437,
+      "tag": "0000_careful_boomer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715092598200,
+      "tag": "0001_lush_stephen_strange",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1715252297438,
+      "tag": "0002_steep_yellow_claw",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1715252334704,
+      "tag": "0003_tough_magik",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1715253394189,
+      "tag": "0004_chubby_jazinda",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1715253684186,
+      "tag": "0005_wandering_cobalt_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1715253836801,
+      "tag": "0006_shiny_valkyrie",
+      "breakpoints": true
+    }
+  ]
+}
