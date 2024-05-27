@@ -1,3 +1,9 @@
+Video link https://www.youtube.com/watch?v=pRybm9lXW2c&t=4s
+
+Tech Stack
+
+NextJs 14, Clerk, Drizzle-ORM, shadcn/ui
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
